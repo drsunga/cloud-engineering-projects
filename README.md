@@ -37,6 +37,6 @@ My ultimate goal is to become a proficient cloud engineer, capable of designing,
 I'm always open to connecting with fellow cloud enthusiasts, mentors, and professionals. Feel free to reach out to me on 
 
 * **[LinkedIn Profile](https://www.linkedin.com/in/dom-s-82400b165/)**
-* **[GitHub Profile](https://github.com/drsunga)
+* **[GitHub Profile](https://github.com/drsunga)**
 
 Thank you for visiting my digital space. I'm excited for what's to come!
